@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning Shanghai Jiao Tong University.
+- 💬 Ask me about robotics and control theory.
+- 📫 How to reach me: https://space.bilibili.com/630017254
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mousikar)](https://github.com/Mousikar/github-readme-stats)
