@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is Mousikar👋
 
 <!--
 **Mousikar/Mousikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning Shanghai Jiao Tong University.
-- 💬 Ask me about robotics and control theory.
-- 📫 How to reach me: https://space.bilibili.com/630017254
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mousikar)](https://github.com/Mousikar/github-readme-stats)
+- 🔭 I’m currently learning in Shanghai Jiao Tong University.
+- 🤔 I’m looking for help with robotics and control theory.
+- 📫 How to reach me: meng_ren@sjtu.edu.cn
+### Mousikar's github stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Mousikar&hide=contribs&show_icons=true&theme=radical&bg_color=DEG,dark)](https://github.com/Mousikar/github-readme-stats)
+### Mousikar's Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mousikar&layout=compact)](https://github.com/Mousikar/github-readme-stats)
